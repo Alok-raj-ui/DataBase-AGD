@@ -1,12 +1,17 @@
 [
   {
     "id": 1,
-    "title": "Dark City Aesthetic",
-    "url": "https://i.imgur.com/xyz123.jpg"
+    "title": "Fitness Pose -1",
+    "url": "https://github.com/Alok-raj-ui/DataBase-AGD/blob/main/Imgs/THE%20FITNESS_20250626_164900_0000.png"
   },
   {
     "id": 2,
-    "title": "Neon Cyber Vibe",
-    "url": "https://res.cloudinary.com/yourname/image/upload/v123456/neon.jpg"
-  }
+    "title": "GYM",
+    "url": "https://github.com/Alok-raj-ui/DataBase-AGD/blob/main/Imgs/NEVER%20GIVE_20250626_164947_0000.png"
+  } ,
+{
+"id":3,
+  "title":" ",
+  "url": "https://github.com/Alok-raj-ui/DataBase-AGD/blob/main/Imgs/JUST%20DO%20IT_20250626_165016_0000.png"
+}
 ]
